@@ -1,1 +1,1 @@
-1st commit attempt
+0x01. Shell, permissions
